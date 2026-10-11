@@ -14,8 +14,9 @@
 
 ## 文件信息
 
-- `Xtherm.apk` — 72,976,680 字节（69.6 MB）
-- SHA256：`31a1b900f50ce49cfe331fb343fb879abbf6b457984bdb2089a77786ecf48a27`
+- `geminiXtherm_unlocked.apk` — 73,005,352 字节（69.6 MB）
+- MD5：`5feaa81b3520b1d65f46609969b79c50`
+- SHA256：`779196fab0f6ee00312faf27ef96ea2bbada5287acd4a748ba5eac19d7c2c2fb`
 
 ## 免责
 
